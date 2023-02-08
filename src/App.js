@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
      <h1>Ecom dashboard</h1>
-     <button>Button</button>
+     <button>Simple Button</button>
      <Button>Bootstrap Button</Button>
     </div>
   );
